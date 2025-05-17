@@ -1,0 +1,17 @@
+# Node modules
+frontend/node_modules/
+
+# Angular build
+frontend/dist/
+
+# ASP.NET Core build
+backend/bin/
+backend/obj/
+
+# User-specific files
+*.user
+*.vs
+*.vscode
+
+# Environment
+.env
